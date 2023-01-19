@@ -1,0 +1,33 @@
+local place = game.PlaceId
+
+-- // costed owned by me 
+
+if place == 1537690962 then 
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Boxking776/kocmoc/main/kocmoc-remastered.lua"))()
+elseif place == 5602055394 then 
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/niqu1337/vertical/main/core/script.lua"))()
+elseif place == 9824221333 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/niqu1337/vertical/main/core/script.lua"))()
+elseif place == 9825515356 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/niqu1337/vertical/main/core/script.lua"))()
+elseif place == 6407649031 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/leakediz/NSS-NO-SCOPE-ARCADE/main/dot"))()
+elseif place == 5081773298 then 
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/leakediz/NSS-NO-SCOPE-ARCADE/main/dot"))()
+elseif place == 6722284015 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/leakediz/NSS-NO-SCOPE-ARCADE/main/dot"))()
+elseif place == 301549746 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/leakediz/stormy/main/leak"))()
+elseif place == 6516141723 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/leakediz/doors/main/gui"))()
+elseif place == 9872472334 then 
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/leakediz/evade/main/gui"))()
+elseif place == 4282985734 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/leakediz/nova/main/gui"))()
+elseif place == 6678877691 then 
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/leakediz/zo/main/gui"))()
+elseif place == 2534724415 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/leakediz/EAC/main/cheat"))()
+end
+
+
