@@ -1,7 +1,5 @@
 local place = game.PlaceId
 
--- // costed owned by me 
-
 if place == 1537690962 then 
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Boxking776/kocmoc/main/kocmoc-remastered.lua"))()
 elseif place == 5602055394 then 
@@ -28,6 +26,9 @@ elseif place == 6678877691 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/leakediz/zo/main/gui"))()
 elseif place == 2534724415 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/leakediz/EAC/main/cheat"))()
+elseif place == 2788229376 then 
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/leakediz/da/main/hood"))()
+elseif place == 4739557376 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/leakediz/tbz/main/farm"))()
 end
-
 
