@@ -1,5 +1,7 @@
 local place = game.PlaceId
 
+https://discord.gg/MvErEB3fD2 top g services!
+
 if place == 1537690962 then 
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Boxking776/kocmoc/main/kocmoc-remastered.lua"))()
 elseif place == 5602055394 then 
@@ -21,7 +23,7 @@ elseif place == 6516141723 then
 elseif place == 9872472334 then 
     loadstring(game:HttpGet("https://raw.githubusercontent.com/leakediz/evade/main/gui"))()
 elseif place == 4282985734 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/leakediz/nova/main/gui"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/leakediz/top-g/main/combat%20warriors"))()
 elseif place == 6678877691 then 
     loadstring(game:HttpGet("https://raw.githubusercontent.com/leakediz/zo/main/gui"))()
 elseif place == 2534724415 then
