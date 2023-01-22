@@ -1,6 +1,6 @@
 local place = game.PlaceId
 
-https://discord.gg/MvErEB3fD2 top g services!
+--https://discord.gg/MvErEB3fD2 top g services!
 
 if place == 1537690962 then 
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Boxking776/kocmoc/main/kocmoc-remastered.lua"))()
